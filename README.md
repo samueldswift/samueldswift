@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sam Swift
 - 👀 I’m interested in working in data science/analytics
 - 🌱 I’m currently learning Python, R, & SQL
-- 💞️ I’m looking to collaborate on projects that involve statistical models and use data to drive decision-making
+- 🤓 I’m looking to collaborate on projects that involve statistical models and use data to drive decision-making
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/samuelswift/
   - Email: samueldswift@gmail.com
