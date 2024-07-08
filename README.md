@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that involve statistical models and use data to drive decision-making
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/samuelswift/
-  - Email: samswift@arizona.edu
+  - Email: samueldswift@gmail.com
 
 <!---
 samueldswift/samueldswift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
